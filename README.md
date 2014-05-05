@@ -1,0 +1,4 @@
+septica
+=======
+
+joc de septica
