@@ -6,4 +6,4 @@ before_install:
   - docker build -t cristi201/septica -f Dockerfile.dev .
 
 script:
-  - docker run cristi/septica npm run test -- --coverage
+  - docker run cristi201/septica npm run test -- --coverage
